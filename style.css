@@ -37,6 +37,12 @@ nav {
 #About h2 {
   color: #F14A00;
 }
+#About img{
+  hight: 600px;
+  width: 300px;
+  border: 15px ridge #5B8FB9;
+  padding: 15px;
+}
 #Passions {
   background-color: #FF9;
   margin: 15px;
@@ -193,6 +199,7 @@ nav {
   border: 10px groove #6089c4;
   padding: 10px;
 }
+
 
 
 
